@@ -15,8 +15,12 @@ Every cat is drawn by hand, and it is the drawing itself that bends.
 - **Drag a section** up or down. Grab it anywhere along its column.
 - **Hold `Shift` while dragging** to sweep across several sections at once and
   draw a whole contour in one motion.
+- **Flat**, **Cradle**, **Ramp**, **Wave** and **Headrest** set the whole bed
+  at once.
 - **Auto-fit to cat** shapes the bed for you.
 - **Flatten** resets it. **Re-drop cat** drops the cat again.
+- **Sections** sets how many sections the bed has (6 to 24), and **Firmness**
+  how much the cushion gives.
 
 **Choose a cat**
 
@@ -26,7 +30,8 @@ Three to pick from, and they want different beds.
 - **Noodle** — all angles, wedge head and a sharp raised haunch.
 - **Mochi** — enormous, a dome of cat with a small head and a hanging tail.
 
-Each comes in three sizes, from kitten to chonk.
+Each comes in three sizes, from kitten to chonk. **Spine stiffness** decides
+whether the cat drapes into every dip or bridges across them like a plank.
 
 **Read the score**
 
@@ -42,7 +47,9 @@ bed to catch it is the puzzle.
 
 Turn on **Pressure map** to see where the weight actually lands, or **Ideal
 contour** to see the line the cat's belly wants to rest on, then drag the
-sections onto it.
+sections onto it. **Spine** shows the chain the cat bends along, **Section
+heights** labels each section, and **Sculpt brush** makes every drag sweep, as
+if `Shift` were held.
 
 **Keyboard**
 
