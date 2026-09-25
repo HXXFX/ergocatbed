@@ -30,8 +30,9 @@ Three to pick from, and they want different beds.
 - **Noodle** — all angles, wedge head and a sharp raised haunch.
 - **Mochi** — enormous, a dome of cat with a small head and a hanging tail.
 
-Each comes in three sizes, from kitten to chonk. **Spine stiffness** decides
-whether the cat drapes into every dip or bridges across them like a plank.
+Each comes in three sizes, from kitten to chonk. **Spine stiffness** sets how
+hard the cat pulls back toward its relaxed shape: lower lets it sag further into
+dips, higher keeps it straighter. The effect is gentle.
 
 **Read the score**
 
